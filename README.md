@@ -13,5 +13,4 @@
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s3.jpg'>
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s4.jpg'>
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s5.jpg'>
-<img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s6.jpg'>
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s7.jpg'>
