@@ -1,5 +1,9 @@
 # Project
-專案相關
 
+學生成績專案管理
 
-<img src="https://github.com/huihuiman/Project/blob/master/1045f84ff8d51a2330f7850934c53e19.jpg?raw=true" />
+創造自定義函數，構建學生名稱、年齡、分數
+
+依照需求將內容輸入，按分數或年齡排序
+
+或則修改成績或刪除此學生
