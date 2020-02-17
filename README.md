@@ -14,8 +14,9 @@
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s1.jpg'>
 查詢表格
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s2.jpg'>
-
+修改內容
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s3.jpg'>
+刪除
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s4.jpg'>
-<img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s5.jpg'>
-<img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s7.jpg'>
+按分數或年齡高低排序
+<img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s5.jpg'><img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s7.jpg'>
