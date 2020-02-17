@@ -8,7 +8,7 @@
 
 或則修改成績或刪除此學生
 
-<img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s1.jpg'>
+<img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s1.jpg' style='padding:20px;'>
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s2.jpg'>
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s3.jpg'>
 <img src='https://github.com/huihuiman/Student/blob/master/Student%E5%9C%96%E7%89%87/s4.jpg'>
