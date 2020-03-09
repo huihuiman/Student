@@ -1,4 +1,3 @@
-# 學生表基礎製作
 def input_student():
     L = []
     while True:
